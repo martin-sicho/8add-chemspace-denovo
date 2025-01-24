@@ -5,7 +5,7 @@
 
 In this tutorial, we will try to use different tools to automatically generate theoretical structures of novel 5-HT1A ligands. We will use a pretrained QSAR model for optimization of the predicted structures using two distinct strategies, CReM-ML and DrugEx.
 
-## DrugEx
+## [DrugEx](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00434)
 
 TODO: some intro
 
