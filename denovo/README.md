@@ -7,8 +7,6 @@ In this tutorial, we will try to use different tools to automatically generate t
 
 ## [DrugEx](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00434)
 
-TODO: some intro
-
 You will use the DrugEx pretrained models and other data in this tutorial, which you can download with the following command:
 
 ```bash
