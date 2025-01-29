@@ -9,6 +9,7 @@
 Run the following commands in your terminal to set up and activate the environment:
 
 ```bash
+sudo apt-get install libxrender1 # WSL users, can end with an error but it does not matter
 conda create -n denovo python=3.12 -y
 source activate denovo
 pip install -r requirements.txt
