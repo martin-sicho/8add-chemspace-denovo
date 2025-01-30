@@ -2,7 +2,7 @@
 
 *Martin Šícho*
 
-*Pavel Polischuk*
+*Pavel Polishchuk*
 
 ## Install the Tools
 
