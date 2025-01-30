@@ -8,7 +8,7 @@ pip install prolif vina meeko easydock==0.3.2 crem
 pip install cremdock
 ```
 
-# Running an example
+## Running an example
 
 To run the example unvoke the following command line
 
