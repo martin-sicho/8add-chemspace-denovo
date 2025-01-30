@@ -1,0 +1,6 @@
+protein: 2btr.pdbqt
+protein_setup: cdk2_box.txt
+exhaustiveness: 4
+seed: 120
+n_poses: 1
+ncpu: 4
