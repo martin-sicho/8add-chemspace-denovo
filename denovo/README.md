@@ -15,6 +15,6 @@ drugex download # execute in current directory
 
 You can start the tutorial by following the [drugex](./drugex.ipynb) notebook.
 
-## CReM-ML
+## CReM
 
-TODO
+See [here](../crem).
